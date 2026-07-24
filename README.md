@@ -19,7 +19,7 @@ I am a Computer Science student at California State University San Marcos with a
 
 ## Featured Projects
 
-- **AI-Powered Genomics Risk Assessment Assistant (In Progress)** — Developing a machine learning application that analyzes genomic data to support early disease risk assessment and provide AI-assisted health insights while emphasizing privacy and responsible AI.
+- **AI-Powered Genomics Risk Assessment Assistant (In Progress)** — An explainable machine-learning platform for identifying potential research gaps in genomic and biomedical data.
 - **Customer Churn Prediction** — Developed classification models to identify customers at risk of leaving.
 - **Loan Default Prediction and Risk Scoring** — Built a machine-learning system to estimate default risk.
 - **Symptom-Based Disease Prediction App** — Created an interactive application that predicts possible diseases using reported symptoms.
