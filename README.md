@@ -21,21 +21,25 @@ I'm seeking entry-level software engineering roles focused on AI-powered applica
 
 - Zayi 1B — R&D Knowledge Assistant
 Team project | Break Through Tech
+
 Contributing to an internal knowledge system that uses retrieval-augmented generation to help users find information in research and development documents.
 My contributions: Added Gemini API retry handling and citation-validation tests, and completed Milestone 2 RAG evaluation and reporting.
 
 - GENESIS — Biomedical Research Explorer
 In development | Python · Streamlit · PubMed · NCBI Gene
+
 Developing a biomedical research platform that brings together PubMed literature and NCBI Gene data. Features include publication trends, gene evidence scoring, research-gap analysis, and paper exploration.
 Engineering focus: Connecting external data sources and presenting research evidence through an interactive interface.
 
 - Animal Image Classifier
 Python · PyTorch · EfficientNet · Grad-CAM
+
 Built an image classifier using EfficientNet transfer learning across 100 animal classes, with Grad-CAM visualizations to explore the image regions influencing predictions.
 Engineering focus: Applying deep learning to image classification and making model behavior easier to inspect.
 
 - Customer Churn Prediction
 Python · pandas · scikit-learn
+
 Developed classification models to identify customers at risk of leaving a service.
 Engineering focus: Applying machine learning to a business problem and evaluating predictive performance.
 
